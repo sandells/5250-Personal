@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.ActionPage"
+             Title="5250 Personal">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Image Source="rdgrn.jpg" />
+                <Label Text="This app is being held together by duct tape" 
+                   HorizontalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="FillAndExpand">
+                <Button Text="Character Page"
+                    TextColor="#FD7EFF"
+                    BorderColor="#3874ED"
+                    BorderWidth="3"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="Center"
+                    Clicked="OnCharClicked" />
+
+                <Button Text="Score Page"
+                    TextColor="#FD7EFF"
+                    BorderColor="#3874ED"
+                    BorderWidth="3"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="Center"
+                    Clicked="OnScoreClicked" />
+
+                <Button Text="Items Page"
+                    TextColor="#FD7EFF"
+                    BorderColor="#3874ED"
+                    BorderWidth="3"
+                    VerticalOptions="CenterAndExpand"
+                    HorizontalOptions="Center"
+                    Clicked="OnItemsClicked" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

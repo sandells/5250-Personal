@@ -141,4 +141,7 @@
       <Name>App1</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\rdgrn.jpg" />
+  </ItemGroup>
 </Project>

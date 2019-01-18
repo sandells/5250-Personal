@@ -12,5 +12,11 @@ namespace App1.Views
         {
             InitializeComponent();
         }
+
+        //Button handler for action page button
+        async void OnButtonClick(object sender, EventArgs args)
+        {
+            await Navigation.PushAsync(new ActionPage());
+        }
     }
 }
