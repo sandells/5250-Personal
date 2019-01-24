@@ -11,8 +11,8 @@
 
     <StackLayout>
         <Label Text="Name: Sam Sandell" />
-        <Label Text="Week 2 Personal assignment" />
-        <Label Text="Date: 1/17/2019" />
+        <Label Text="Week 3 Personal assignment" />
+        <Label Text="Date: 1/24/2019" />
         <Button Text="Go To Second Page"
                 VerticalOptions="CenterAndExpand"
                 HorizontalOptions="Center"
