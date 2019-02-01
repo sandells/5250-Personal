@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.DeleteCharacterPage"
+             Title="Delete Character">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Delete" Clicked="DeleteCharacterForReal_Clicked" />
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <Label Text="Name: " />
+        <Label Text="{Binding Character.Name}" />
+        <Label Text="Description: " />
+        <Label Text="{Binding Character.Description}" />
+        <Label Text="Age: " />
+        <Label Text="{Binding Character.Age}" />
+    </StackLayout>
+</ContentPage>

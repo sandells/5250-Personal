@@ -1,7 +1,6 @@
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\bin\Debug\netstandard2.0\App1.dll
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\bin\Debug\netstandard2.0\App1.pdb
-C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\ActionPage.xaml.g.cs
@@ -10,6 +9,7 @@ C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\View
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\NewCharacterPage.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\ScorePage.xaml.g.cs
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
@@ -18,3 +18,7 @@ C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App1
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App1.dll
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\CharacterDetailPage.xaml.g.cs
+C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\EditCharacterPage.xaml.g.cs
+C:\Users\samue\Documents\5250stuff\p5250\App1\App1\obj\Debug\netstandard2.0\Views\DeleteCharacterPage.xaml.g.cs

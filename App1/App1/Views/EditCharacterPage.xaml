@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.EditCharacterPage"
+             Title="Edit">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save" Clicked="EditCharacter_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <Label Text="Name: " />
+        <Entry Text="{Binding Character.Name}"/>
+        <Label Text="Description: " />
+        <Entry Text="{Binding Character.Description}"/>
+        <Label Text="Age: " />
+        <Entry Text="{Binding Character.Age}"/>
+    </StackLayout>
+</ContentPage>

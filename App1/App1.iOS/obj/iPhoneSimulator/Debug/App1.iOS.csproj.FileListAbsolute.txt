@@ -43,6 +43,7 @@ C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\bin\iPhoneSimulator\Debug
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\bin\iPhoneSimulator\Debug\App1.dll
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\bin\iPhoneSimulator\Debug\App1.pdb
+C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\bin\iPhoneSimulator\Debug\App1.dll.mdb
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
@@ -55,4 +56,3 @@ C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug\App1.iOS.csproj.CopyComplete
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug\App1.iOS.exe
 C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\obj\iPhoneSimulator\Debug\App1.iOS.pdb
-C:\Users\samue\Documents\5250stuff\p5250\App1\App1.iOS\bin\iPhoneSimulator\Debug\App1.dll.mdb
